@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://exm3u.extraott.com/6JG6WQTK/1RS973F7/154407
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:15:3F:EB&stream=356179&extension=ts&play_token=0NvTxwWE9m&sn2=
