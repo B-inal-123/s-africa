@@ -4,4 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/232528
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:2A:0F&stream=1991734&extension=ts&play_token=ihHyAnZOEW&sn2=
+#http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/232528
